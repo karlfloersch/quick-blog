@@ -1,0 +1,15 @@
+{
+  "name": "quick-blog",
+  "description": "A quick client-rendered blog site",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x",
+    "body-parser": "~1.13.3",
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
+
