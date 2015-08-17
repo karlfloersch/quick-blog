@@ -3,6 +3,9 @@
   "description": "A quick client-rendered blog site",
   "version": "0.0.1",
   "private": true,
+  "scripts": {
+      "preinstall": "node bin/preinstall"
+  },
   "dependencies": {
     "mongoose": "~4.1.2",
     "mongoosastic": "~3.1.4"
