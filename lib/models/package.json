@@ -1,9 +1,10 @@
 {
-  "name": "quick-blog",
-  "description": "A quick client-rendered blog site",
+  "name": "quick-blog-models",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
+    "mongoose": "~4.1.2",
+    "mongoosastic": "~3.1.4"
   },
   "devDependencies": {
     "chai": "*",

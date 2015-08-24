@@ -1,11 +1,12 @@
 {
-  "name": "quick-blog",
-  "description": "A quick client-rendered blog site",
+  "name": "quick-blog-web-server",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
     "express": "4.x",
-    "body-parser": "~1.13.3"
+    "body-parser": "~1.13.3",
+    "mongoose": "~4.1.2",
+    "mongoosastic": "~3.1.4"
   },
   "devDependencies": {
     "chai": "*",
