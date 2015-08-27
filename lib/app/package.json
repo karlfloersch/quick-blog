@@ -5,12 +5,9 @@
   "dependencies": {
     "express": "4.x",
     "body-parser": "~1.13.3",
-    "mongoose": "~4.1.2",
-    "mongoosastic": "~3.1.4"
+    "mongoose": "~4.1.2"
   },
   "devDependencies": {
-    "chai": "*",
-    "mocha": "*"
   }
 }
 

@@ -4,12 +4,13 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-      "preinstall": "node bin/preinstall"
+    "preinstall": "node bin/preinstall"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "chai": "*",
+    "grunt": "latest",
+    "grunt-mocha-test": "^0.12.7",
     "mocha": "*"
   }
 }

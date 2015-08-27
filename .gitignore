@@ -1,6 +1,6 @@
 # Development envornment setup
-dev_setup.sh
 *.swp
+results.txt
 
 # Logs
 logs
