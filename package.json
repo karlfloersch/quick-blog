@@ -6,7 +6,8 @@
   "scripts": {
     "preinstall": "node bin/preinstall"
   },
-  "dependencies": {},
+  "dependencies": {
+  },
   "devDependencies": {
     "chai": "*",
     "grunt": "latest",

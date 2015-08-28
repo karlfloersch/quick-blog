@@ -1,10 +1,9 @@
 {
-  "name": "quick-blog-models",
+  "name": "karls-node-logger",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "mongoosastic": "~3.1.4",
-    "mongoose": "~4.1.2"
+    "bunyan": "^1.4.0"
   },
   "devDependencies": {}
 }
