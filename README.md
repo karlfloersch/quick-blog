@@ -1,5 +1,4 @@
 # Quick Blog: The cheetah of blogs
-A super fast single page blogging site
 
 ## What makes Quick Blog so fast?
 - Lunr.js search engine for searching the blog posts
