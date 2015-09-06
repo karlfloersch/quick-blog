@@ -1,5 +1,5 @@
-{ 
-  "name": "quick-blog-web-server",
+{
+  "name": "Set up simple mongo connection with mongoose",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
