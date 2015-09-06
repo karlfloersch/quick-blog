@@ -1,7 +1,7 @@
 # Quick Blog: The cheetah of blogs
 
 ## What makes Quick Blog so fast?
-- Lunr.js search engine for searching the blog posts
+- Lunr.js as a search engine for finding blog posts
 - No bloat. Let's get content to our users quickly and painlessly
 - Bittorrent ---- Wha?
 
