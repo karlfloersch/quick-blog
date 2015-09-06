@@ -1,5 +1,5 @@
 {
-  "name": "Set up simple mongo connection with mongoose",
+  "name": "mongo-mongoose-connection",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
