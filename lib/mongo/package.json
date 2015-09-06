@@ -1,0 +1,10 @@
+{ 
+  "name": "quick-blog-web-server",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "mongoose": "~4.1.2"
+  },
+  "devDependencies": {}
+}
+
