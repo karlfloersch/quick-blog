@@ -15,9 +15,9 @@ To setup quick-blog for developing you'll need to install a few global dependenc
 - grunt-cli: for build step
 - mocha: for testing
 
-Once you have those installed, just navigate to the home directory of the project and enter:
+Once you have those installed, just navigate to the home directory of the project and run:
 
-      npm install .
+      $ npm install .
 
 And you're done!  Run `node index.js` and you've got the app running.
 
