@@ -6,8 +6,7 @@
 - Bittorrent ---- Wha?
 
 ## Current Project Status
-This is an *in development* peice of software. I plan on having a prototype
-up and running by 09/16/15. If I don't, sorry!
+This project is **in development**. It is likely that I won't get around to finishing it up completely for another few months because of a project which I'm developing which will enable this blog to be super fast. Stay posted for that!
 
 ## Development Setup
 To setup quick-blog for developing you'll need to install a few global dependencies:
